@@ -1,4 +1,4 @@
-## Egop Interactive C# Course Backend
+## Egop Interactive C# Course Platform
 
 - Deploy infra
 [![Deploy egop runner](https://github.com/egop-course-platform/course-platform-infra/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/egop-course-platform/course-platform-infra/actions/workflows/deploy.yml)
